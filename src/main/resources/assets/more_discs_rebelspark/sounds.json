@@ -1,4 +1,15 @@
 {
+
+
+  "a_familiar_room": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:a_familiar_room",
+        "stream": true
+      }
+    ]
+  },
+
   "alpha": {
     "sounds": [
       {
@@ -21,6 +32,15 @@
     "sounds": [
       {
         "name": "more_discs_rebelspark:back_on_dash",
+        "stream": true
+      }
+    ]
+  },
+
+  "beginning": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:beginning",
         "stream": true
       }
     ]
@@ -66,6 +86,24 @@
     "sounds": [
       {
         "name": "more_discs_rebelspark:castlemania2",
+        "stream": true
+      }
+    ]
+  },
+
+  "chris": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:chris",
+        "stream": true
+      }
+    ]
+  },
+
+  "clark": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:clark",
         "stream": true
       }
     ]
@@ -291,6 +329,15 @@
     "sounds": [
       {
         "name": "more_discs_rebelspark:sweden",
+        "stream": true
+      }
+    ]
+  },
+
+  "taswell": {
+    "sounds": [
+      {
+        "name": "more_discs_rebelspark:taswell",
         "stream": true
       }
     ]

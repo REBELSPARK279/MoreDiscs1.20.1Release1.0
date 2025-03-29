@@ -22,6 +22,7 @@ public class ModTags {
 
 
 
+
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(MoreDiscs.MOD_ID, name));
         }

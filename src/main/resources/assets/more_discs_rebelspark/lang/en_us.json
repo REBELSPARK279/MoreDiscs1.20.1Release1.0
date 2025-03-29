@@ -1,4 +1,8 @@
 {
+
+  "item.more_discs_rebelspark.a_familiar_room_music_disc": "Music Disc",
+  "item.more_discs_rebelspark.a_familiar_room_music_disc.desc": "Aaron Cherof - A Familiar Room",
+
   "item.more_discs_rebelspark.alpha_music_disc": "Music Disc",
   "item.more_discs_rebelspark.alpha_music_disc.desc": "C418 - Alpha",
 
@@ -7,6 +11,9 @@
 
   "item.more_discs_rebelspark.back_on_dash_music_disc": "Music Disc",
   "item.more_discs_rebelspark.back_on_dash_music_disc.desc": "DJVI - Back on Dash",
+
+  "item.more_discs_rebelspark.beginning_music_disc": "Music Disc",
+  "item.more_discs_rebelspark.beginning_music_disc.desc": "C418 - Beginning",
 
   "item.more_discs_rebelspark.beginning2_music_disc": "Music Disc",
   "item.more_discs_rebelspark.beginning2_music_disc.desc": "C418 - Beginning 2",
@@ -22,6 +29,12 @@
 
   "item.more_discs_rebelspark.castlemania2_music_disc": "Music Disc",
   "item.more_discs_rebelspark.castlemania2_music_disc.desc": "REBELSPARK279 - CastleMania II",
+
+  "item.more_discs_rebelspark.chris_music_disc": "Music Disc",
+  "item.more_discs_rebelspark.chris_music_disc.desc": "C418 - Chris",
+
+  "item.more_discs_rebelspark.clark_music_disc": "Music Disc",
+  "item.more_discs_rebelspark.clark_music_disc.desc": "C418 - Clark",
 
   "item.more_discs_rebelspark.danny_music_disc": "Music Disc",
   "item.more_discs_rebelspark.danny_music_disc.desc": "C418 - Danny",
@@ -98,6 +111,9 @@
   "item.more_discs_rebelspark.sweden_music_disc": "Music Disc",
   "item.more_discs_rebelspark.sweden_music_disc.desc": "C418 - Sweden",
 
+  "item.more_discs_rebelspark.taswell_music_disc": "Music Disc",
+  "item.more_discs_rebelspark.taswell_music_disc.desc": "C418 - Taswell",
+
   "item.more_discs_rebelspark.wet_hands_music_disc": "Music Disc",
   "item.more_discs_rebelspark.wet_hands_music_disc.desc": "C418 - Wet Hands",
 
@@ -105,6 +121,10 @@
   "item.more_discs_rebelspark.dog_disc_core": "Dog Disc Core",
   "item.more_discs_rebelspark.dreiton_disc_core": "Dreiton Disc Core",
   "item.more_discs_rebelspark.empty_disc_core": "Empty Disc Core",
+
+  "item.more_discs_rebelspark.dog_disc_fragment": "Dog Disc Fragment",
+  "item.more_discs_rebelspark.moog_city2_disc_fragment": "Moog City 2 Disc Fragment",
+  "item.more_discs_rebelspark.minecraft_disc_fragment": "Minecraft Disc Fragment",
 
   "block.more_discs_rebelspark.white_led_dance_floor": "White LED Dance Floor",
   "block.more_discs_rebelspark.light_grey_dance_floor": "Light Gray Dance Floor",
@@ -133,8 +153,7 @@
   "painting.more_discs_rebelspark.stack.author": "REBELSPARK279",
 
   "creativetab.more_discs_rebelspark.mod_discs": "Mod Discs",
-  "creativetab.more_discs_rebelspark.disc_cores": "Disc Cores",
-  "creativetab.more_discs_rebelspark.party_equipment": "Party Equipment",
+  "creativetab.more_discs_rebelspark.mod_disc_fragments": "Disc Fragments",
 
   "entity.minecraft.villager.more_discs_rebelspark.disc_jockey": "Disc Jockey",
 
