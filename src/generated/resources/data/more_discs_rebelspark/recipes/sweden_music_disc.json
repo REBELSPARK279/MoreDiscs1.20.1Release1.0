@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:blue_dye"
+    },
+    "C": {
+      "item": "more_discs_rebelspark:empty_disc_core"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "YCY",
+    "FBF"
+  ],
+  "result": {
+    "item": "more_discs_rebelspark:sweden_music_disc"
+  },
+  "show_notification": true
+}

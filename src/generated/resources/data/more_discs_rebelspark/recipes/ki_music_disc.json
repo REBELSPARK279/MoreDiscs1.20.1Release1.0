@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "more_discs_rebelspark:empty_disc_core"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "L": {
+      "item": "minecraft:cherry_leaves"
+    },
+    "P": {
+      "item": "minecraft:pink_petals"
+    }
+  },
+  "pattern": [
+    "FLF",
+    "PCP",
+    "FLF"
+  ],
+  "result": {
+    "item": "more_discs_rebelspark:ki_music_disc"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,14 @@
+{
+  "type": "more_discs_rebelspark:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:blocks/ice"
+    },
+    {
+      "chance": 0.054,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "more_discs_rebelspark:chris_music_disc"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "more_discs_rebelspark:empty_disc_core"
+    },
+    "F": {
+      "item": "more_discs_rebelspark:moog_city2_disc_fragment"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FCF",
+    "FFF"
+  ],
+  "result": {
+    "item": "more_discs_rebelspark:moog_city2_music_disc"
+  },
+  "show_notification": true
+}

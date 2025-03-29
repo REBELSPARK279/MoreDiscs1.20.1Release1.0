@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "more_discs_rebelspark:empty_disc_core"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "Y": {
+      "item": "minecraft:yellow_dye"
+    }
+  },
+  "pattern": [
+    "FFF",
+    "FCY",
+    "FFF"
+  ],
+  "result": {
+    "item": "more_discs_rebelspark:key_music_disc"
+  },
+  "show_notification": true
+}

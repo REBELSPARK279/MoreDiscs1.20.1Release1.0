@@ -1,0 +1,14 @@
+{
+  "type": "more_discs_rebelspark:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:blocks/sea_lantern"
+    },
+    {
+      "chance": 0.27,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "more_discs_rebelspark:wet_hands_music_disc"
+}

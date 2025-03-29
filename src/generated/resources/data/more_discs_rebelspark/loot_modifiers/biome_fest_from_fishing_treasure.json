@@ -1,0 +1,14 @@
+{
+  "type": "more_discs_rebelspark:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/fishing/treasure"
+    },
+    {
+      "chance": 0.14,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "more_discs_rebelspark:biome_fest_music_disc"
+}

@@ -1,0 +1,14 @@
+{
+  "type": "more_discs_rebelspark:add_item",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:entities/sheep/pink"
+    },
+    {
+      "chance": 0.13,
+      "condition": "minecraft:random_chance"
+    }
+  ],
+  "item": "more_discs_rebelspark:subwoofer_lullaby_music_disc"
+}
